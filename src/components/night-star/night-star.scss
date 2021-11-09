@@ -1,0 +1,11 @@
+.night-star {
+  height: 100vh;
+  width: 100vw;
+  background: #000;
+
+  &__star {
+    background: #fff;
+    border-radius: 50%;
+    position: absolute;
+  }
+}
